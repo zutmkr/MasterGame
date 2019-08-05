@@ -1,7 +1,7 @@
 {
 "companyName": "ZUT",
-"productName": "Space Shooter",
-"productVersion": "0.1",
+"productName": "Galaxy Escape",
+"productVersion": "1.0",
 "dataUrl": "gra.data.unityweb",
 "wasmCodeUrl": "gra.wasm.code.unityweb",
 "wasmFrameworkUrl": "gra.wasm.framework.unityweb",
