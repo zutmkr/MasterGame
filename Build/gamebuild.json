@@ -1,7 +1,7 @@
 {
 "companyName": "ZUT",
-"productName": "Space Shooter",
-"productVersion": "0.1",
+"productName": "Galaxy Escape",
+"productVersion": "1.0",
 "dataUrl": "gamebuild.data.unityweb",
 "wasmCodeUrl": "gamebuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "gamebuild.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.1.3f1"
+"unityVersion": "2019.2.0f1"
 }
